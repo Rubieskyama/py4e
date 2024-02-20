@@ -1,0 +1,6 @@
+a local authority official wishes to conduct a survey of households in the borough
+he decide to select a stratified sample of two thousand households using council tax property bands as the strata
+at the time of the survey they were seventy nine thousand households in the borough
+the table show the number of households in the different tax bands
+calculate the number of households that the official should choose from each stratum in order to 
+obtain his sample of two thousand so that each stratum is represented proportionally
