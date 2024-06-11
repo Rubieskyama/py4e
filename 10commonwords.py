@@ -14,3 +14,4 @@ sortedcount = sorted(listcount, reverse=True)
 
 for v,k in sortedcount[:10]:
     print(k, v)
+    
